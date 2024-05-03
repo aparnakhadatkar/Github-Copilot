@@ -92,6 +92,10 @@ In this lab, you will utilize Copilot to generate code in ARM, Terraform, and Po
 
 1. In the Visual Studio Code activity bar, click the GitHub Copilot Chat icon to open the GitHub Copilot Chat window.
 
+   >**Note:** If ask to sign-in then click on sign-in, after clicking if you do not get the sign-in prompt within Visual Studio Code, click on **Allow** in the pop-up that appears which will open a window in the browser, refresh the screen and click on **Open** in the pop-up that appears.
+  
+    ![](../media/23.png)
+
 1. At the bottom of the GitHub Copilot Chat window, in the **Ask Copilot a question or type / for topics** text box, type a coding-related question, then press Enter. For example, type "Write an ARM code for deploying a storage account to Azure with the code explanation."
 
     ![](../media/create-arm.png)
